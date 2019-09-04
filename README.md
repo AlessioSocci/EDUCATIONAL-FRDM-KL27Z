@@ -1,5 +1,5 @@
 # FRDM-KL27Z
-Educational BARE-METAL Project - NXP ARM M0+
+Soft Real Time O.S. with Task Non-Preemptive First Come First Served Scheduling "Educational" Project - NXP ARM Cortex M0+
 
 Test some basic functionality for NXP KL27Z in FRDM board, without libraries.
 
