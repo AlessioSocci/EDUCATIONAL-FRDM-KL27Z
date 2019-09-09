@@ -1,5 +1,5 @@
 # FRDM-KL27Z
-Soft Real Time O.S. with Task Non-Preemptive First Come First Served Scheduling "Educational" Project - NXP ARM Cortex M0+
+Soft Real Time O.S. with Non-Preemptive First Come First Served Task Scheduling, Preemptive Prioritized Interrupt, "Educational" Project - NXP ARM Cortex M0+
 
 Test some basic functionality for NXP KL27Z in FRDM board, without libraries.
 
